@@ -56,7 +56,6 @@ a = StudentData("Sujeesh", 1, 31, 45)
 b = StudentData("Gaurav", 2, 45, 54)
 c = StudentData("Rohit", 3, 56, 65)
 myData = [a, b, c]
-# print(myData[0])
 
 while True:
     print('''
